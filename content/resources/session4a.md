@@ -5,6 +5,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   analysis, and a case study of environmental samples.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/90d76ac11ae972085627668d073d990c_session4a.pdf
 file_type: application/pdf
+parent_uid: d7b05319-b06d-0c52-3e98-e8cf9ebdae66
 resourcetype: Document
 title: Trace Element Analysis by Neutron Activation Analysis - A Case Study of Environmental
   Samples Using the Instruments

@@ -6,6 +6,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   materials.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/e5306a0bdde470475584d055519037f5_session2b.pdf
 file_type: application/pdf
+parent_uid: d7b05319-b06d-0c52-3e98-e8cf9ebdae66
 resourcetype: Document
 title: 'Neutron Activation Analysis - Applications: Trace Element Analysis of Geological,
   Biological and Environmental Materials'

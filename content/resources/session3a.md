@@ -5,6 +5,7 @@ description: 'Slides from a lecture presentation covering the following topics: 
   sample preparation, and hands on experience with sample preparation in laboratory.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-trace-element-analysis-of-geological-biological-environmental-materials-by-neutron-activation-analysis-an-exposure-january-iap-2005/3a2c564bba9267ed885fa8349f6d10bf_session3a.pdf
 file_type: application/pdf
+parent_uid: d7b05319-b06d-0c52-3e98-e8cf9ebdae66
 resourcetype: Document
 title: Experimental Procedures
 uid: 3a2c564b-ba92-67ed-885f-a8349f6d10bf
